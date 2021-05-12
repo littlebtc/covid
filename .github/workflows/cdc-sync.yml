@@ -1,0 +1,26 @@
+name: CDC Sync
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: mkdir -p ./src/data/cdc
+      - name: Get examination center data
+        run: >
+          curl "https://antiflu.cdc.gov.tw/ExaminationCounter/GetHospitalData"
+          -H "X-Requested-With: XMLHttpRequest" -H "Origin: https://antiflu.cdc.gov.tw"
+          -H "Connection: keep-alive" -H "Referer: https://antiflu.cdc.gov.tw/ExaminationCounter/"
+          --data-raw "bottom=0&left=0&right=180&top=90" -o './src/data/cdc/examination.json'
+      - name: Get vaccine data
+        run: >
+          curl "https://antiflu.cdc.gov.tw/Covid19/GetHospitalData"
+          -H "X-Requested-With: XMLHttpRequest" -H "Origin: https://antiflu.cdc.gov.tw"
+          -H "Connection: keep-alive" -H "Referer: https://antiflu.cdc.gov.tw/Covid19/"
+          --data-raw "bottom=0&left=0&right=180&top=90" -o './src/data/cdc/vaccine.json'
+      - uses: EndBug/add-and-commit@v7
+        with:
+          add: ./src/data/cdc
+          message: "data: update data from CDC"
