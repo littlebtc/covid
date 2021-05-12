@@ -15,14 +15,14 @@ jobs:
           -H "X-Requested-With: XMLHttpRequest" -H "Origin: https://antiflu.cdc.gov.tw"
           -H "Connection: keep-alive" -H "Referer: https://antiflu.cdc.gov.tw/ExaminationCounter/"
           --data-raw "bottom=0&left=0&right=180&top=90" |
-          jq 'del(.[].InfoWindowMessage)' > ./src/data/cdc/examination.json
+          jq 'del(.[] | .InfoWindowMessage, .Id)' > ./src/data/cdc/examination.json
       - name: Get vaccine data
         run: >
           curl "https://antiflu.cdc.gov.tw/Covid19/GetHospitalData"
           -H "X-Requested-With: XMLHttpRequest" -H "Origin: https://antiflu.cdc.gov.tw"
           -H "Connection: keep-alive" -H "Referer: https://antiflu.cdc.gov.tw/Covid19/"
           --data-raw "bottom=0&left=0&right=180&top=90" |
-          jq 'del(.[].InfoWindowMessage)' > ./src/data/cdc/vaccine.json
+          jq 'del(.[] | .InfoWindowMessage, .Id)' > ./src/data/cdc/vaccine.json
       - uses: EndBug/add-and-commit@v7
         with:
           add: ./src/data/cdc
