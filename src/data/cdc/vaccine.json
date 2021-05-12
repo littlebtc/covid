@@ -5985,6 +5985,414 @@
   },
   {
     "Id": 177,
+    "HospitalId": "2101010013",
+    "HospitalName": "臺北市立聯合醫院松山門診部",
+    "City": "臺北市",
+    "Dist": "松山區",
+    "ZipCode": null,
+    "Address": "臺北市松山區八德路4段694號1、2樓",
+    "Phone": "02-27653147",
+    "Lat": 25.049669,
+    "Long": 121.577305,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2765-3147",
+        "Day1": 0,
+        "Day2": 0,
+        "Day3": 0,
+        "Day4": 0,
+        "Day5": 4,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 178,
+    "HospitalId": "2101020019",
+    "HospitalName": "臺北市立聯合醫院大安門診部",
+    "City": "臺北市",
+    "Dist": "大安區",
+    "ZipCode": null,
+    "Address": "臺北市大安區辛亥路3段15號",
+    "Phone": "02-27390997",
+    "Lat": 25.021574,
+    "Long": 121.544299,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2739-0997",
+        "Day1": 0,
+        "Day2": 0,
+        "Day3": 4,
+        "Day4": 0,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 179,
+    "HospitalId": "2101090011",
+    "HospitalName": "臺北市立聯合醫院大同門診部",
+    "City": "臺北市",
+    "Dist": "大同區",
+    "ZipCode": null,
+    "Address": "臺北市大同區昌吉街52號1至2樓",
+    "Phone": "02-25948971",
+    "Lat": 25.065815,
+    "Long": 121.516341,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2594-8971",
+        "Day1": 0,
+        "Day2": 4,
+        "Day3": 0,
+        "Day4": 0,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 180,
+    "HospitalId": "2101100227",
+    "HospitalName": "臺北市立聯合醫院中山門診部",
+    "City": "臺北市",
+    "Dist": "中山區",
+    "ZipCode": null,
+    "Address": "臺北市中山區松江路367號1樓",
+    "Phone": "02-25013363",
+    "Lat": 25.064395,
+    "Long": 121.533501,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2501-3363",
+        "Day1": 0,
+        "Day2": 0,
+        "Day3": 4,
+        "Day4": 0,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 181,
+    "HospitalId": "2101110027",
+    "HospitalName": "臺北市立聯合醫院內湖門診部",
+    "City": "臺北市",
+    "Dist": "內湖區",
+    "ZipCode": null,
+    "Address": "臺北市內湖區民權東路6段99號",
+    "Phone": "02-27908387",
+    "Lat": 25.069226,
+    "Long": 121.588922,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2790-8387",
+        "Day1": 0,
+        "Day2": 0,
+        "Day3": 4,
+        "Day4": 0,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 182,
+    "HospitalId": "2101120014",
+    "HospitalName": "臺北市立聯合醫院南港門診部",
+    "City": "臺北市",
+    "Dist": "南港區",
+    "ZipCode": null,
+    "Address": "臺北市南港區南港路1段360號1樓",
+    "Phone": "02-27868756",
+    "Lat": 25.054528,
+    "Long": 121.606758,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2786-8756",
+        "Day1": 0,
+        "Day2": 0,
+        "Day3": 0,
+        "Day4": 4,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 183,
+    "HospitalId": "2101150012",
+    "HospitalName": "臺北市立聯合醫院士林門診部",
+    "City": "臺北市",
+    "Dist": "士林區",
+    "ZipCode": null,
+    "Address": "臺北市士林區中正路439號1樓",
+    "Phone": "02-28836268",
+    "Lat": 25.092845,
+    "Long": 121.519698,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2883-6268",
+        "Day1": 0,
+        "Day2": 0,
+        "Day3": 4,
+        "Day4": 0,
+        "Day5": 4,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 184,
+    "HospitalId": "2101161033",
+    "HospitalName": "臺北市立聯合醫院北投門診部",
+    "City": "臺北市",
+    "Dist": "北投區",
+    "ZipCode": null,
+    "Address": "臺北市北投區新市街30號5樓",
+    "Phone": "02-28912670",
+    "Lat": 25.132673,
+    "Long": 121.502735,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2891-2670",
+        "Day1": 4,
+        "Day2": 4,
+        "Day3": 0,
+        "Day4": 0,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 185,
+    "HospitalId": "2101170050",
+    "HospitalName": "臺北市立聯合醫院信義門診部",
+    "City": "臺北市",
+    "Dist": "信義區",
+    "ZipCode": null,
+    "Address": "臺北市信義區信義路5段15號",
+    "Phone": "02-87804152",
+    "Lat": 25.033147,
+    "Long": 121.566897,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-8780-4152",
+        "Day1": 2,
+        "Day2": 0,
+        "Day3": 0,
+        "Day4": 0,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 186,
+    "HospitalId": "2101180038",
+    "HospitalName": "臺北市立聯合醫院中正門診部",
+    "City": "臺北市",
+    "Dist": "中正區",
+    "ZipCode": null,
+    "Address": "臺北市中正區牯嶺街24號",
+    "Phone": "02-23210168",
+    "Lat": 25.030494,
+    "Long": 121.515952,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2321-0168",
+        "Day1": 0,
+        "Day2": 0,
+        "Day3": 0,
+        "Day4": 2,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 187,
+    "HospitalId": "2101191068",
+    "HospitalName": "臺北市立聯合醫院萬華門診部",
+    "City": "臺北市",
+    "Dist": "萬華區",
+    "ZipCode": null,
+    "Address": "臺北市萬華區東園街152號",
+    "Phone": "02-23395384",
+    "Lat": 25.023175,
+    "Long": 121.497613,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診",
+        "AppointmentPhone": "02-2339-5384",
+        "Day1": 0,
+        "Day2": 0,
+        "Day3": 0,
+        "Day4": 4,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 188,
+    "HospitalId": "2101200017",
+    "HospitalName": "臺北市立聯合醫院政大門診部",
+    "City": "臺北市",
+    "Dist": "文山區",
+    "ZipCode": null,
+    "Address": "臺北市文山區指南路2段117號",
+    "Phone": "02-82377441",
+    "Lat": 24.98762,
+    "Long": 121.576522,
+    "Note": null,
+    "Vaccines": [
+      {
+        "VaccID": "AstraZeneca",
+        "Name": "AstraZeneca",
+        "VaccInventory": 0,
+        "StockLevel": null,
+        "StockStatus": 0,
+        "IsActiveNum": false,
+        "ControlVaccInventory": null,
+        "Expense": 0,
+        "Department": "COVID-19疫苗特別門診(雙周二)",
+        "AppointmentPhone": "02-8237-7441",
+        "Day1": 0,
+        "Day2": 4,
+        "Day3": 0,
+        "Day4": 0,
+        "Day5": 0,
+        "Day6": 0,
+        "Day7": 0
+      }
+    ]
+  },
+  {
+    "Id": 189,
     "HospitalId": "2312010014",
     "HospitalName": "新竹市東區衛生所",
     "City": "新竹市",
@@ -6018,7 +6426,7 @@
     ]
   },
   {
-    "Id": 178,
+    "Id": 190,
     "HospitalId": "2312041028",
     "HospitalName": "新竹市北區衛生所",
     "City": "新竹市",
@@ -6052,7 +6460,7 @@
     ]
   },
   {
-    "Id": 179,
+    "Id": 191,
     "HospitalId": "2312050018",
     "HospitalName": "新竹市香山衛生所",
     "City": "新竹市",
@@ -6086,7 +6494,7 @@
     ]
   },
   {
-    "Id": 180,
+    "Id": 192,
     "HospitalId": "2317050018",
     "HospitalName": "臺中市北區衛生所",
     "City": "臺中市",
@@ -6120,7 +6528,7 @@
     ]
   },
   {
-    "Id": 181,
+    "Id": 193,
     "HospitalId": "2322010017",
     "HospitalName": "嘉義市東區衛生所",
     "City": "嘉義市",
@@ -6154,7 +6562,7 @@
     ]
   },
   {
-    "Id": 182,
+    "Id": 194,
     "HospitalId": "2322020013",
     "HospitalName": "嘉義市西區衛生所",
     "City": "嘉義市",
@@ -6188,7 +6596,7 @@
     ]
   },
   {
-    "Id": 183,
+    "Id": 195,
     "HospitalId": "2331010016",
     "HospitalName": "新北市板橋區衛生所",
     "City": "新北市",
@@ -6222,7 +6630,7 @@
     ]
   },
   {
-    "Id": 184,
+    "Id": 196,
     "HospitalId": "2331020012",
     "HospitalName": "新北市三重區衛生所",
     "City": "新北市",
@@ -6256,7 +6664,7 @@
     ]
   },
   {
-    "Id": 185,
+    "Id": 197,
     "HospitalId": "2331030018",
     "HospitalName": "新北市永和區衛生所",
     "City": "新北市",
@@ -6290,7 +6698,7 @@
     ]
   },
   {
-    "Id": 186,
+    "Id": 198,
     "HospitalId": "2331040014",
     "HospitalName": "新北市中和區衛生所",
     "City": "新北市",
@@ -6324,7 +6732,7 @@
     ]
   },
   {
-    "Id": 187,
+    "Id": 199,
     "HospitalId": "2331050010",
     "HospitalName": "新北市新店區衛生所",
     "City": "新北市",
@@ -6358,7 +6766,7 @@
     ]
   },
   {
-    "Id": 188,
+    "Id": 200,
     "HospitalId": "2331060016",
     "HospitalName": "新北市新莊區衛生所",
     "City": "新北市",
@@ -6392,7 +6800,7 @@
     ]
   },
   {
-    "Id": 189,
+    "Id": 201,
     "HospitalId": "2331070012",
     "HospitalName": "新北市樹林區衛生所",
     "City": "新北市",
@@ -6426,7 +6834,7 @@
     ]
   },
   {
-    "Id": 190,
+    "Id": 202,
     "HospitalId": "2331080018",
     "HospitalName": "新北市鶯歌區衛生所",
     "City": "新北市",
@@ -6460,7 +6868,7 @@
     ]
   },
   {
-    "Id": 191,
+    "Id": 203,
     "HospitalId": "2331090014",
     "HospitalName": "新北市三峽區衛生所",
     "City": "新北市",
@@ -6494,7 +6902,7 @@
     ]
   },
   {
-    "Id": 192,
+    "Id": 204,
     "HospitalId": "2331100015",
     "HospitalName": "新北市淡水區衛生所",
     "City": "新北市",
@@ -6528,7 +6936,7 @@
     ]
   },
   {
-    "Id": 193,
+    "Id": 205,
     "HospitalId": "2331110011",
     "HospitalName": "新北市汐止區衛生所",
     "City": "新北市",
@@ -6562,7 +6970,7 @@
     ]
   },
   {
-    "Id": 194,
+    "Id": 206,
     "HospitalId": "2331120017",
     "HospitalName": "新北市瑞芳區衛生所",
     "City": "新北市",
@@ -6596,7 +7004,7 @@
     ]
   },
   {
-    "Id": 195,
+    "Id": 207,
     "HospitalId": "2331130013",
     "HospitalName": "新北市土城區衛生所",
     "City": "新北市",
@@ -6630,7 +7038,7 @@
     ]
   },
   {
-    "Id": 196,
+    "Id": 208,
     "HospitalId": "2331140019",
     "HospitalName": "新北市蘆洲區衛生所",
     "City": "新北市",
@@ -6664,7 +7072,7 @@
     ]
   },
   {
-    "Id": 197,
+    "Id": 209,
     "HospitalId": "2331150015",
     "HospitalName": "新北市五股區衛生所",
     "City": "新北市",
@@ -6698,7 +7106,7 @@
     ]
   },
   {
-    "Id": 198,
+    "Id": 210,
     "HospitalId": "2331160011",
     "HospitalName": "新北市泰山區衛生所",
     "City": "新北市",
@@ -6732,7 +7140,7 @@
     ]
   },
   {
-    "Id": 199,
+    "Id": 211,
     "HospitalId": "2331170017",
     "HospitalName": "新北市林口區衛生所",
     "City": "新北市",
@@ -6766,7 +7174,7 @@
     ]
   },
   {
-    "Id": 200,
+    "Id": 212,
     "HospitalId": "2331180013",
     "HospitalName": "新北市深坑區衛生所",
     "City": "新北市",
@@ -6800,7 +7208,7 @@
     ]
   },
   {
-    "Id": 201,
+    "Id": 213,
     "HospitalId": "2331190019",
     "HospitalName": "新北市石碇區衛生所",
     "City": "新北市",
@@ -6834,7 +7242,7 @@
     ]
   },
   {
-    "Id": 202,
+    "Id": 214,
     "HospitalId": "2331200010",
     "HospitalName": "新北市坪林區衛生所",
     "City": "新北市",
@@ -6868,7 +7276,7 @@
     ]
   },
   {
-    "Id": 203,
+    "Id": 215,
     "HospitalId": "2331210016",
     "HospitalName": "新北市三芝區衛生所",
     "City": "新北市",
@@ -6902,7 +7310,7 @@
     ]
   },
   {
-    "Id": 204,
+    "Id": 216,
     "HospitalId": "2331220012",
     "HospitalName": "新北市石門區衛生所",
     "City": "新北市",
@@ -6936,7 +7344,7 @@
     ]
   },
   {
-    "Id": 205,
+    "Id": 217,
     "HospitalId": "2331230018",
     "HospitalName": "新北市八里區衛生所",
     "City": "新北市",
@@ -6970,7 +7378,7 @@
     ]
   },
   {
-    "Id": 206,
+    "Id": 218,
     "HospitalId": "2331240014",
     "HospitalName": "新北市平溪區衛生所",
     "City": "新北市",
@@ -7004,7 +7412,7 @@
     ]
   },
   {
-    "Id": 207,
+    "Id": 219,
     "HospitalId": "2331250010",
     "HospitalName": "新北市雙溪區衛生所",
     "City": "新北市",
@@ -7038,7 +7446,7 @@
     ]
   },
   {
-    "Id": 208,
+    "Id": 220,
     "HospitalId": "2331260016",
     "HospitalName": "新北市貢寮區衛生所",
     "City": "新北市",
@@ -7072,7 +7480,7 @@
     ]
   },
   {
-    "Id": 209,
+    "Id": 221,
     "HospitalId": "2331270012",
     "HospitalName": "新北市金山區衛生所",
     "City": "新北市",
@@ -7106,7 +7514,7 @@
     ]
   },
   {
-    "Id": 210,
+    "Id": 222,
     "HospitalId": "2331280018",
     "HospitalName": "新北市萬里區衛生所",
     "City": "新北市",
@@ -7140,7 +7548,7 @@
     ]
   },
   {
-    "Id": 211,
+    "Id": 223,
     "HospitalId": "2331290014",
     "HospitalName": "新北市烏來區衛生所",
     "City": "新北市",
@@ -7174,7 +7582,7 @@
     ]
   },
   {
-    "Id": 212,
+    "Id": 224,
     "HospitalId": "2332010010",
     "HospitalName": "桃園市桃園區衛生所",
     "City": "桃園市",
@@ -7208,7 +7616,7 @@
     ]
   },
   {
-    "Id": 213,
+    "Id": 225,
     "HospitalId": "2332020016",
     "HospitalName": "桃園市中壢區衛生所",
     "City": "桃園市",
@@ -7242,7 +7650,7 @@
     ]
   },
   {
-    "Id": 214,
+    "Id": 226,
     "HospitalId": "2332030012",
     "HospitalName": "桃園市大溪區衛生所",
     "City": "桃園市",
@@ -7276,7 +7684,7 @@
     ]
   },
   {
-    "Id": 215,
+    "Id": 227,
     "HospitalId": "2332040018",
     "HospitalName": "桃園市楊梅區衛生所",
     "City": "桃園市",
@@ -7310,7 +7718,7 @@
     ]
   },
   {
-    "Id": 216,
+    "Id": 228,
     "HospitalId": "2332050014",
     "HospitalName": "桃園市蘆竹區衛生所",
     "City": "桃園市",
@@ -7344,7 +7752,7 @@
     ]
   },
   {
-    "Id": 217,
+    "Id": 229,
     "HospitalId": "2332060010",
     "HospitalName": "桃園市大園區衛生所",
     "City": "桃園市",
@@ -7378,7 +7786,7 @@
     ]
   },
   {
-    "Id": 218,
+    "Id": 230,
     "HospitalId": "2332070016",
     "HospitalName": "桃園市龜山區衛生所",
     "City": "桃園市",
@@ -7412,7 +7820,7 @@
     ]
   },
   {
-    "Id": 219,
+    "Id": 231,
     "HospitalId": "2332080012",
     "HospitalName": "桃園市八德區衛生所",
     "City": "桃園市",
@@ -7446,7 +7854,7 @@
     ]
   },
   {
-    "Id": 220,
+    "Id": 232,
     "HospitalId": "2332090018",
     "HospitalName": "桃園市龍潭區衛生所",
     "City": "桃園市",
@@ -7480,7 +7888,7 @@
     ]
   },
   {
-    "Id": 221,
+    "Id": 233,
     "HospitalId": "2332100019",
     "HospitalName": "桃園市平鎮區衛生所",
     "City": "桃園市",
@@ -7514,7 +7922,7 @@
     ]
   },
   {
-    "Id": 222,
+    "Id": 234,
     "HospitalId": "2332110015",
     "HospitalName": "桃園市新屋區衛生所",
     "City": "桃園市",
@@ -7548,7 +7956,7 @@
     ]
   },
   {
-    "Id": 223,
+    "Id": 235,
     "HospitalId": "2332120011",
     "HospitalName": "桃園市觀音區衛生所",
     "City": "桃園市",
@@ -7582,7 +7990,7 @@
     ]
   },
   {
-    "Id": 224,
+    "Id": 236,
     "HospitalId": "2332130017",
     "HospitalName": "桃園市復興區衛生所",
     "City": "桃園市",
@@ -7616,7 +8024,7 @@
     ]
   },
   {
-    "Id": 225,
+    "Id": 237,
     "HospitalId": "2333010014",
     "HospitalName": "新竹縣關西鎮衛生所",
     "City": "新竹縣",
@@ -7650,7 +8058,7 @@
     ]
   },
   {
-    "Id": 226,
+    "Id": 238,
     "HospitalId": "2333020010",
     "HospitalName": "新竹縣新埔鎮衛生所",
     "City": "新竹縣",
@@ -7684,7 +8092,7 @@
     ]
   },
   {
-    "Id": 227,
+    "Id": 239,
     "HospitalId": "2333030016",
     "HospitalName": "新竹縣竹東鎮衛生所",
     "City": "新竹縣",
@@ -7718,7 +8126,7 @@
     ]
   },
   {
-    "Id": 228,
+    "Id": 240,
     "HospitalId": "2333050018",
     "HospitalName": "新竹縣竹北市衛生所",
     "City": "新竹縣",
@@ -7752,7 +8160,7 @@
     ]
   },
   {
-    "Id": 229,
+    "Id": 241,
     "HospitalId": "2333060014",
     "HospitalName": "新竹縣湖口鄉衛生所",
     "City": "新竹縣",
@@ -7786,7 +8194,7 @@
     ]
   },
   {
-    "Id": 230,
+    "Id": 242,
     "HospitalId": "2333070010",
     "HospitalName": "新竹縣橫山鄉衛生所",
     "City": "新竹縣",
@@ -7820,7 +8228,7 @@
     ]
   },
   {
-    "Id": 231,
+    "Id": 243,
     "HospitalId": "2333080016",
     "HospitalName": "新竹縣新豐鄉衛生所",
     "City": "新竹縣",
@@ -7854,7 +8262,7 @@
     ]
   },
   {
-    "Id": 232,
+    "Id": 244,
     "HospitalId": "2333090012",
     "HospitalName": "新竹縣芎林鄉衛生所",
     "City": "新竹縣",
@@ -7888,7 +8296,7 @@
     ]
   },
   {
-    "Id": 233,
+    "Id": 245,
     "HospitalId": "2333100013",
     "HospitalName": "新竹縣寶山鄉衛生所",
     "City": "新竹縣",
@@ -7922,7 +8330,7 @@
     ]
   },
   {
-    "Id": 234,
+    "Id": 246,
     "HospitalId": "2333110019",
     "HospitalName": "新竹縣北埔鄉衛生所",
     "City": "新竹縣",
@@ -7956,7 +8364,7 @@
     ]
   },
   {
-    "Id": 235,
+    "Id": 247,
     "HospitalId": "2333120015",
     "HospitalName": "新竹縣峨眉鄉衛生所",
     "City": "新竹縣",
@@ -7990,7 +8398,7 @@
     ]
   },
   {
-    "Id": 236,
+    "Id": 248,
     "HospitalId": "2333130011",
     "HospitalName": "新竹縣尖石鄉衛生所",
     "City": "新竹縣",
@@ -8024,7 +8432,7 @@
     ]
   },
   {
-    "Id": 237,
+    "Id": 249,
     "HospitalId": "2333140017",
     "HospitalName": "新竹縣五峰鄉衛生所",
     "City": "新竹縣",
@@ -8058,7 +8466,7 @@
     ]
   },
   {
-    "Id": 238,
+    "Id": 250,
     "HospitalId": "2334010018",
     "HospitalName": "宜蘭縣宜蘭市衛生所",
     "City": "宜蘭縣",
@@ -8092,7 +8500,7 @@
     ]
   },
   {
-    "Id": 239,
+    "Id": 251,
     "HospitalId": "2334020014",
     "HospitalName": "宜蘭縣羅東鎮衛生所",
     "City": "宜蘭縣",
@@ -8126,7 +8534,7 @@
     ]
   },
   {
-    "Id": 240,
+    "Id": 252,
     "HospitalId": "2335010012",
     "HospitalName": "苗栗縣苗栗市衛生所",
     "City": "苗栗縣",
@@ -8160,7 +8568,7 @@
     ]
   },
   {
-    "Id": 241,
+    "Id": 253,
     "HospitalId": "2335030014",
     "HospitalName": "苗栗縣通霄鎮衛生所",
     "City": "苗栗縣",
@@ -8194,7 +8602,7 @@
     ]
   },
   {
-    "Id": 242,
+    "Id": 254,
     "HospitalId": "2335040010",
     "HospitalName": "苗栗縣竹南鎮衛生所",
     "City": "苗栗縣",
@@ -8228,7 +8636,7 @@
     ]
   },
   {
-    "Id": 243,
+    "Id": 255,
     "HospitalId": "2335060012",
     "HospitalName": "苗栗縣後龍鎮衛生所",
     "City": "苗栗縣",
@@ -8262,7 +8670,7 @@
     ]
   },
   {
-    "Id": 244,
+    "Id": 256,
     "HospitalId": "2335110017",
     "HospitalName": "苗栗縣南庄鄉衛生所",
     "City": "苗栗縣",
@@ -8296,7 +8704,7 @@
     ]
   },
   {
-    "Id": 245,
+    "Id": 257,
     "HospitalId": "2335130019",
     "HospitalName": "苗栗縣三義鄉衛生所",
     "City": "苗栗縣",
@@ -8330,7 +8738,7 @@
     ]
   },
   {
-    "Id": 246,
+    "Id": 258,
     "HospitalId": "2335180019",
     "HospitalName": "苗栗縣泰安鄉衛生所",
     "City": "苗栗縣",
@@ -8364,7 +8772,7 @@
     ]
   },
   {
-    "Id": 247,
+    "Id": 259,
     "HospitalId": "2336030018",
     "HospitalName": "臺中市大甲區衛生所",
     "City": "臺中市",
@@ -8398,7 +8806,7 @@
     ]
   },
   {
-    "Id": 248,
+    "Id": 260,
     "HospitalId": "2336120017",
     "HospitalName": "臺中市石岡區衛生所",
     "City": "臺中市",
@@ -8432,7 +8840,7 @@
     ]
   },
   {
-    "Id": 249,
+    "Id": 261,
     "HospitalId": "2336180013",
     "HospitalName": "臺中市霧峰區衛生所",
     "City": "臺中市",
@@ -8466,7 +8874,7 @@
     ]
   },
   {
-    "Id": 250,
+    "Id": 262,
     "HospitalId": "2336190019",
     "HospitalName": "臺中市太平區衛生所",
     "City": "臺中市",
@@ -8500,7 +8908,7 @@
     ]
   },
   {
-    "Id": 251,
+    "Id": 263,
     "HospitalId": "2337010010",
     "HospitalName": "彰化縣彰化市南西北區衛生所",
     "City": "彰化縣",
@@ -8534,7 +8942,7 @@
     ]
   },
   {
-    "Id": 252,
+    "Id": 264,
     "HospitalId": "2337010029",
     "HospitalName": "彰化縣彰化市東區衛生所",
     "City": "彰化縣",
@@ -8568,7 +8976,7 @@
     ]
   },
   {
-    "Id": 253,
+    "Id": 265,
     "HospitalId": "2337020016",
     "HospitalName": "彰化縣鹿港鎮衛生所",
     "City": "彰化縣",
@@ -8602,7 +9010,7 @@
     ]
   },
   {
-    "Id": 254,
+    "Id": 266,
     "HospitalId": "2337030012",
     "HospitalName": "彰化縣和美鎮衛生所",
     "City": "彰化縣",
@@ -8636,7 +9044,7 @@
     ]
   },
   {
-    "Id": 255,
+    "Id": 267,
     "HospitalId": "2337040018",
     "HospitalName": "彰化縣北斗鎮衛生所",
     "City": "彰化縣",
@@ -8670,7 +9078,7 @@
     ]
   },
   {
-    "Id": 256,
+    "Id": 268,
     "HospitalId": "2337050014",
     "HospitalName": "彰化縣員林市衛生所",
     "City": "彰化縣",
@@ -8704,7 +9112,7 @@
     ]
   },
   {
-    "Id": 257,
+    "Id": 269,
     "HospitalId": "2337060010",
     "HospitalName": "彰化縣溪湖鎮衛生所",
     "City": "彰化縣",
@@ -8738,7 +9146,7 @@
     ]
   },
   {
-    "Id": 258,
+    "Id": 270,
     "HospitalId": "2337070016",
     "HospitalName": "彰化縣田中鎮衛生所",
     "City": "彰化縣",
@@ -8772,7 +9180,7 @@
     ]
   },
   {
-    "Id": 259,
+    "Id": 271,
     "HospitalId": "2337080012",
     "HospitalName": "彰化縣二林鎮衛生所",
     "City": "彰化縣",
@@ -8806,7 +9214,7 @@
     ]
   },
   {
-    "Id": 260,
+    "Id": 272,
     "HospitalId": "2337090018",
     "HospitalName": "彰化縣線西鄉衛生所",
     "City": "彰化縣",
@@ -8840,7 +9248,7 @@
     ]
   },
   {
-    "Id": 261,
+    "Id": 273,
     "HospitalId": "2337100019",
     "HospitalName": "彰化縣伸港鄉衛生所",
     "City": "彰化縣",
@@ -8874,7 +9282,7 @@
     ]
   },
   {
-    "Id": 262,
+    "Id": 274,
     "HospitalId": "2337110015",
     "HospitalName": "彰化縣福興鄉衛生所",
     "City": "彰化縣",
@@ -8908,7 +9316,7 @@
     ]
   },
   {
-    "Id": 263,
+    "Id": 275,
     "HospitalId": "2337120020",
     "HospitalName": "彰化縣秀水鄉衛生所",
     "City": "彰化縣",
@@ -8942,7 +9350,7 @@
     ]
   },
   {
-    "Id": 264,
+    "Id": 276,
     "HospitalId": "2337130017",
     "HospitalName": "彰化縣花壇鄉衛生所",
     "City": "彰化縣",
@@ -8976,7 +9384,7 @@
     ]
   },
   {
-    "Id": 265,
+    "Id": 277,
     "HospitalId": "2337140013",
     "HospitalName": "彰化縣芬園鄉衛生所",
     "City": "彰化縣",
@@ -9010,7 +9418,7 @@
     ]
   },
   {
-    "Id": 266,
+    "Id": 278,
     "HospitalId": "2337150019",
     "HospitalName": "彰化縣大村鄉衛生所",
     "City": "彰化縣",
@@ -9044,7 +9452,7 @@
     ]
   },
   {
-    "Id": 267,
+    "Id": 279,
     "HospitalId": "2337160015",
     "HospitalName": "彰化縣埔鹽鄉衛生所",
     "City": "彰化縣",
@@ -9078,7 +9486,7 @@
     ]
   },
   {
-    "Id": 268,
+    "Id": 280,
     "HospitalId": "2337170011",
     "HospitalName": "彰化縣埔心鄉衛生所",
     "City": "彰化縣",
@@ -9112,7 +9520,7 @@
     ]
   },
   {
-    "Id": 269,
+    "Id": 281,
     "HospitalId": "2337180017",
     "HospitalName": "彰化縣永靖鄉衛生所",
     "City": "彰化縣",
@@ -9146,7 +9554,7 @@
     ]
   },
   {
-    "Id": 270,
+    "Id": 282,
     "HospitalId": "2337190013",
     "HospitalName": "彰化縣社頭鄉衛生所",
     "City": "彰化縣",
@@ -9180,7 +9588,7 @@
     ]
   },
   {
-    "Id": 271,
+    "Id": 283,
     "HospitalId": "2337200014",
     "HospitalName": "彰化縣二水鄉衛生所",
     "City": "彰化縣",
@@ -9214,7 +9622,7 @@
     ]
   },
   {
-    "Id": 272,
+    "Id": 284,
     "HospitalId": "2337210010",
     "HospitalName": "彰化縣田尾鄉衛生所",
     "City": "彰化縣",
@@ -9248,7 +9656,7 @@
     ]
   },
   {
-    "Id": 273,
+    "Id": 285,
     "HospitalId": "2337220016",
     "HospitalName": "彰化縣埤頭鄉衛生所",
     "City": "彰化縣",
@@ -9282,7 +9690,7 @@
     ]
   },
   {
-    "Id": 274,
+    "Id": 286,
     "HospitalId": "2337230012",
     "HospitalName": "彰化縣芳苑鄉衛生所",
     "City": "彰化縣",
@@ -9316,7 +9724,7 @@
     ]
   },
   {
-    "Id": 275,
+    "Id": 287,
     "HospitalId": "2337240018",
     "HospitalName": "彰化縣大城鄉衛生所",
     "City": "彰化縣",
@@ -9350,7 +9758,7 @@
     ]
   },
   {
-    "Id": 276,
+    "Id": 288,
     "HospitalId": "2337250014",
     "HospitalName": "彰化縣竹塘鄉衛生所",
     "City": "彰化縣",
@@ -9384,7 +9792,7 @@
     ]
   },
   {
-    "Id": 277,
+    "Id": 289,
     "HospitalId": "2337260010",
     "HospitalName": "彰化縣溪州鄉衛生所",
     "City": "彰化縣",
@@ -9418,7 +9826,7 @@
     ]
   },
   {
-    "Id": 278,
+    "Id": 290,
     "HospitalId": "2338010014",
     "HospitalName": "南投縣南投市衛生所",
     "City": "南投縣",
@@ -9452,7 +9860,7 @@
     ]
   },
   {
-    "Id": 279,
+    "Id": 291,
     "HospitalId": "2338020010",
     "HospitalName": "南投縣埔里鎮衛生所",
     "City": "南投縣",
@@ -9486,7 +9894,7 @@
     ]
   },
   {
-    "Id": 280,
+    "Id": 292,
     "HospitalId": "2338030016",
     "HospitalName": "南投縣草屯鎮衛生所",
     "City": "南投縣",
@@ -9520,7 +9928,7 @@
     ]
   },
   {
-    "Id": 281,
+    "Id": 293,
     "HospitalId": "2338040012",
     "HospitalName": "南投縣竹山鎮衛生所",
     "City": "南投縣",
@@ -9554,7 +9962,7 @@
     ]
   },
   {
-    "Id": 282,
+    "Id": 294,
     "HospitalId": "2338050018",
     "HospitalName": "南投縣集集鎮衛生所",
     "City": "南投縣",
@@ -9588,7 +9996,7 @@
     ]
   },
   {
-    "Id": 283,
+    "Id": 295,
     "HospitalId": "2338060014",
     "HospitalName": "南投縣名間鄉衛生所",
     "City": "南投縣",
@@ -9622,7 +10030,7 @@
     ]
   },
   {
-    "Id": 284,
+    "Id": 296,
     "HospitalId": "2338070010",
     "HospitalName": "南投縣鹿谷鄉衛生所",
     "City": "南投縣",
@@ -9656,7 +10064,7 @@
     ]
   },
   {
-    "Id": 285,
+    "Id": 297,
     "HospitalId": "2338080016",
     "HospitalName": "南投縣中寮鄉衛生所",
     "City": "南投縣",
@@ -9690,7 +10098,7 @@
     ]
   },
   {
-    "Id": 286,
+    "Id": 298,
     "HospitalId": "2338090012",
     "HospitalName": "南投縣魚池鄉衛生所",
     "City": "南投縣",
@@ -9724,7 +10132,7 @@
     ]
   },
   {
-    "Id": 287,
+    "Id": 299,
     "HospitalId": "2338100013",
     "HospitalName": "南投縣國姓鄉衛生所",
     "City": "南投縣",
@@ -9758,7 +10166,7 @@
     ]
   },
   {
-    "Id": 288,
+    "Id": 300,
     "HospitalId": "2338110019",
     "HospitalName": "南投縣水里鄉衛生所",
     "City": "南投縣",
@@ -9792,7 +10200,7 @@
     ]
   },
   {
-    "Id": 289,
+    "Id": 301,
     "HospitalId": "2338120015",
     "HospitalName": "南投縣信義鄉衛生所",
     "City": "南投縣",
@@ -9826,7 +10234,7 @@
     ]
   },
   {
-    "Id": 290,
+    "Id": 302,
     "HospitalId": "2338130011",
     "HospitalName": "南投縣仁愛鄉衛生所",
     "City": "南投縣",
@@ -9860,7 +10268,7 @@
     ]
   },
   {
-    "Id": 291,
+    "Id": 303,
     "HospitalId": "2339050012",
     "HospitalName": "雲林縣土庫鎮衛生所",
     "City": "雲林縣",
@@ -9894,7 +10302,7 @@
     ]
   },
   {
-    "Id": 292,
+    "Id": 304,
     "HospitalId": "2339120019",
     "HospitalName": "雲林縣崙背鄉衛生所",
     "City": "雲林縣",
@@ -9928,7 +10336,7 @@
     ]
   },
   {
-    "Id": 293,
+    "Id": 305,
     "HospitalId": "2339180015",
     "HospitalName": "雲林縣四湖鄉衛生所",
     "City": "雲林縣",
@@ -9962,7 +10370,7 @@
     ]
   },
   {
-    "Id": 294,
+    "Id": 306,
     "HospitalId": "2340020011",
     "HospitalName": "嘉義縣布袋鎮衛生所",
     "City": "嘉義縣",
@@ -9996,7 +10404,7 @@
     ]
   },
   {
-    "Id": 295,
+    "Id": 307,
     "HospitalId": "2340030017",
     "HospitalName": "嘉義縣大林鎮衛生所",
     "City": "嘉義縣",
@@ -10030,7 +10438,7 @@
     ]
   },
   {
-    "Id": 296,
+    "Id": 308,
     "HospitalId": "2340040013",
     "HospitalName": "嘉義縣民雄鄉衛生所",
     "City": "嘉義縣",
@@ -10064,7 +10472,7 @@
     ]
   },
   {
-    "Id": 297,
+    "Id": 309,
     "HospitalId": "2340050019",
     "HospitalName": "嘉義縣溪口鄉衛生所",
     "City": "嘉義縣",
@@ -10098,7 +10506,7 @@
     ]
   },
   {
-    "Id": 298,
+    "Id": 310,
     "HospitalId": "2340060015",
     "HospitalName": "嘉義縣新港鄉衛生所",
     "City": "嘉義縣",
@@ -10132,7 +10540,7 @@
     ]
   },
   {
-    "Id": 299,
+    "Id": 311,
     "HospitalId": "2340070011",
     "HospitalName": "嘉義縣六腳鄉衛生所",
     "City": "嘉義縣",
@@ -10166,8 +10574,8 @@
     ]
   },
   {
-    "Id": 300,
-    "HospitalId": "2340080017",
+    "Id": 312,
+    "HospitalId": "2340080017 ",
     "HospitalName": "嘉義縣東石鄉衛生所",
     "City": "嘉義縣",
     "Dist": "東石鄉",
@@ -10200,8 +10608,8 @@
     ]
   },
   {
-    "Id": 301,
-    "HospitalId": "2340090013",
+    "Id": 313,
+    "HospitalId": "2340090013 ",
     "HospitalName": "嘉義縣義竹鄉衛生所",
     "City": "嘉義縣",
     "Dist": "義竹鄉",
@@ -10234,7 +10642,7 @@
     ]
   },
   {
-    "Id": 302,
+    "Id": 314,
     "HospitalId": "2340110010",
     "HospitalName": "嘉義縣太保市衛生所",
     "City": "嘉義縣",
@@ -10268,7 +10676,7 @@
     ]
   },
   {
-    "Id": 303,
+    "Id": 315,
     "HospitalId": "2340120016",
     "HospitalName": "嘉義縣水上鄉衛生所",
     "City": "嘉義縣",
@@ -10302,7 +10710,7 @@
     ]
   },
   {
-    "Id": 304,
+    "Id": 316,
     "HospitalId": "2340130012",
     "HospitalName": "嘉義縣中埔鄉衛生所",
     "City": "嘉義縣",
@@ -10336,7 +10744,7 @@
     ]
   },
   {
-    "Id": 305,
+    "Id": 317,
     "HospitalId": "2340150014",
     "HospitalName": "嘉義縣梅山鄉衛生所",
     "City": "嘉義縣",
@@ -10370,8 +10778,8 @@
     ]
   },
   {
-    "Id": 306,
-    "HospitalId": "2340160010",
+    "Id": 318,
+    "HospitalId": "2340160010 ",
     "HospitalName": "嘉義縣番路鄉衛生所",
     "City": "嘉義縣",
     "Dist": "番路鄉",
@@ -10404,7 +10812,7 @@
     ]
   },
   {
-    "Id": 307,
+    "Id": 319,
     "HospitalId": "2340180012",
     "HospitalName": "嘉義縣阿里山鄉衛生所",
     "City": "嘉義縣",
@@ -10438,7 +10846,7 @@
     ]
   },
   {
-    "Id": 308,
+    "Id": 320,
     "HospitalId": "2341060019",
     "HospitalName": "臺南市新化區衛生所",
     "City": "臺南市",
@@ -10472,7 +10880,7 @@
     ]
   },
   {
-    "Id": 309,
+    "Id": 321,
     "HospitalId": "2341080011",
     "HospitalName": "臺南市學甲區衛生所",
     "City": "臺南市",
@@ -10506,7 +10914,7 @@
     ]
   },
   {
-    "Id": 310,
+    "Id": 322,
     "HospitalId": "2341130016",
     "HospitalName": "臺南市六甲區衛生所",
     "City": "臺南市",
@@ -10540,7 +10948,7 @@
     ]
   },
   {
-    "Id": 311,
+    "Id": 323,
     "HospitalId": "2341230011",
     "HospitalName": "臺南市玉井區衛生所",
     "City": "臺南市",
@@ -10574,7 +10982,7 @@
     ]
   },
   {
-    "Id": 312,
+    "Id": 324,
     "HospitalId": "2341280011",
     "HospitalName": "臺南市歸仁區衛生所",
     "City": "臺南市",
@@ -10608,7 +11016,7 @@
     ]
   },
   {
-    "Id": 313,
+    "Id": 325,
     "HospitalId": "2343010017",
     "HospitalName": "屏東縣屏東市衛生所",
     "City": "屏東縣",
@@ -10642,7 +11050,7 @@
     ]
   },
   {
-    "Id": 314,
+    "Id": 326,
     "HospitalId": "2343020013",
     "HospitalName": "屏東縣潮州鎮衛生所",
     "City": "屏東縣",
@@ -10676,7 +11084,7 @@
     ]
   },
   {
-    "Id": 315,
+    "Id": 327,
     "HospitalId": "2343030019",
     "HospitalName": "屏東縣東港鎮衛生所",
     "City": "屏東縣",
@@ -10710,7 +11118,7 @@
     ]
   },
   {
-    "Id": 316,
+    "Id": 328,
     "HospitalId": "2343040015",
     "HospitalName": "屏東縣恆春鎮衛生所",
     "City": "屏東縣",
@@ -10744,7 +11152,7 @@
     ]
   },
   {
-    "Id": 317,
+    "Id": 329,
     "HospitalId": "2343050011",
     "HospitalName": "屏東縣萬丹鄉衛生所",
     "City": "屏東縣",
@@ -10778,7 +11186,7 @@
     ]
   },
   {
-    "Id": 318,
+    "Id": 330,
     "HospitalId": "2343060017",
     "HospitalName": "屏東縣長治鄉衛生所",
     "City": "屏東縣",
@@ -10812,7 +11220,7 @@
     ]
   },
   {
-    "Id": 319,
+    "Id": 331,
     "HospitalId": "2343070013",
     "HospitalName": "屏東縣麟洛鄉衛生所",
     "City": "屏東縣",
@@ -10846,7 +11254,7 @@
     ]
   },
   {
-    "Id": 320,
+    "Id": 332,
     "HospitalId": "2343080019",
     "HospitalName": "屏東縣九如鄉衛生所",
     "City": "屏東縣",
@@ -10880,7 +11288,7 @@
     ]
   },
   {
-    "Id": 321,
+    "Id": 333,
     "HospitalId": "2343090015",
     "HospitalName": "屏東縣里港鄉衛生所",
     "City": "屏東縣",
@@ -10914,7 +11322,7 @@
     ]
   },
   {
-    "Id": 322,
+    "Id": 334,
     "HospitalId": "2343100016",
     "HospitalName": "屏東縣鹽埔鄉衛生所",
     "City": "屏東縣",
@@ -10948,7 +11356,7 @@
     ]
   },
   {
-    "Id": 323,
+    "Id": 335,
     "HospitalId": "2343110012",
     "HospitalName": "屏東縣高樹鄉衛生所",
     "City": "屏東縣",
@@ -10982,7 +11390,7 @@
     ]
   },
   {
-    "Id": 324,
+    "Id": 336,
     "HospitalId": "2343120018",
     "HospitalName": "屏東縣萬巒鄉衛生所",
     "City": "屏東縣",
@@ -11016,7 +11424,7 @@
     ]
   },
   {
-    "Id": 325,
+    "Id": 337,
     "HospitalId": "2343130014",
     "HospitalName": "屏東縣內埔鄉衛生所",
     "City": "屏東縣",
@@ -11050,7 +11458,7 @@
     ]
   },
   {
-    "Id": 326,
+    "Id": 338,
     "HospitalId": "2343140010",
     "HospitalName": "屏東縣竹田鄉衛生所",
     "City": "屏東縣",
@@ -11084,7 +11492,7 @@
     ]
   },
   {
-    "Id": 327,
+    "Id": 339,
     "HospitalId": "2343150016",
     "HospitalName": "屏東縣新埤鄉衛生所",
     "City": "屏東縣",
@@ -11118,7 +11526,7 @@
     ]
   },
   {
-    "Id": 328,
+    "Id": 340,
     "HospitalId": "2343160012",
     "HospitalName": "屏東縣枋寮鄉衛生所",
     "City": "屏東縣",
@@ -11152,7 +11560,7 @@
     ]
   },
   {
-    "Id": 329,
+    "Id": 341,
     "HospitalId": "2343170018",
     "HospitalName": "屏東縣新園鄉衛生所",
     "City": "屏東縣",
@@ -11186,7 +11594,7 @@
     ]
   },
   {
-    "Id": 330,
+    "Id": 342,
     "HospitalId": "2343180014",
     "HospitalName": "屏東縣崁頂鄉衛生所",
     "City": "屏東縣",
@@ -11220,7 +11628,7 @@
     ]
   },
   {
-    "Id": 331,
+    "Id": 343,
     "HospitalId": "2343190010",
     "HospitalName": "屏東縣林邊鄉衛生所",
     "City": "屏東縣",
@@ -11254,7 +11662,7 @@
     ]
   },
   {
-    "Id": 332,
+    "Id": 344,
     "HospitalId": "2343200011",
     "HospitalName": "屏東縣南州鄉衛生所",
     "City": "屏東縣",
@@ -11288,7 +11696,7 @@
     ]
   },
   {
-    "Id": 333,
+    "Id": 345,
     "HospitalId": "2343210017",
     "HospitalName": "屏東縣佳冬鄉衛生所",
     "City": "屏東縣",
@@ -11322,7 +11730,7 @@
     ]
   },
   {
-    "Id": 334,
+    "Id": 346,
     "HospitalId": "2343220013",
     "HospitalName": "屏東縣琉球鄉衛生所",
     "City": "屏東縣",
@@ -11356,7 +11764,7 @@
     ]
   },
   {
-    "Id": 335,
+    "Id": 347,
     "HospitalId": "2343230019",
     "HospitalName": "屏東縣車城鄉衛生所",
     "City": "屏東縣",
@@ -11390,7 +11798,7 @@
     ]
   },
   {
-    "Id": 336,
+    "Id": 348,
     "HospitalId": "2343240015",
     "HospitalName": "屏東縣滿州鄉衛生所",
     "City": "屏東縣",
@@ -11424,7 +11832,7 @@
     ]
   },
   {
-    "Id": 337,
+    "Id": 349,
     "HospitalId": "2343250011",
     "HospitalName": "屏東縣枋山鄉衛生所",
     "City": "屏東縣",
@@ -11458,7 +11866,7 @@
     ]
   },
   {
-    "Id": 338,
+    "Id": 350,
     "HospitalId": "2343260017",
     "HospitalName": "屏東縣三地門鄉務生所",
     "City": "屏東縣",
@@ -11492,7 +11900,7 @@
     ]
   },
   {
-    "Id": 339,
+    "Id": 351,
     "HospitalId": "2343270013",
     "HospitalName": "屏東縣霧臺鄉衛生所",
     "City": "屏東縣",
@@ -11526,7 +11934,7 @@
     ]
   },
   {
-    "Id": 340,
+    "Id": 352,
     "HospitalId": "2343280019",
     "HospitalName": "屏東縣瑪家鄉衛生所",
     "City": "屏東縣",
@@ -11560,7 +11968,7 @@
     ]
   },
   {
-    "Id": 341,
+    "Id": 353,
     "HospitalId": "2343290015",
     "HospitalName": "屏東縣泰武鄉衛生所",
     "City": "屏東縣",
@@ -11594,7 +12002,7 @@
     ]
   },
   {
-    "Id": 342,
+    "Id": 354,
     "HospitalId": "2343300016",
     "HospitalName": "屏東縣來義鄉衛生所",
     "City": "屏東縣",
@@ -11628,7 +12036,7 @@
     ]
   },
   {
-    "Id": 343,
+    "Id": 355,
     "HospitalId": "2343310012",
     "HospitalName": "屏東縣春日鄉衛生所",
     "City": "屏東縣",
@@ -11662,7 +12070,7 @@
     ]
   },
   {
-    "Id": 344,
+    "Id": 356,
     "HospitalId": "2343320018",
     "HospitalName": "屏東縣獅子鄉衛生所",
     "City": "屏東縣",
@@ -11696,7 +12104,7 @@
     ]
   },
   {
-    "Id": 345,
+    "Id": 357,
     "HospitalId": "2343330014",
     "HospitalName": "屏東縣牡丹鄉衛生所",
     "City": "屏東縣",
@@ -11730,7 +12138,7 @@
     ]
   },
   {
-    "Id": 346,
+    "Id": 358,
     "HospitalId": "2344010011",
     "HospitalName": "澎湖縣馬公市第一衛生所",
     "City": "澎湖縣",
@@ -11764,7 +12172,7 @@
     ]
   },
   {
-    "Id": 347,
+    "Id": 359,
     "HospitalId": "2344011027",
     "HospitalName": "澎湖縣馬公市第二衛生所",
     "City": "澎湖縣",
@@ -11798,7 +12206,7 @@
     ]
   },
   {
-    "Id": 348,
+    "Id": 360,
     "HospitalId": "2344011036",
     "HospitalName": "澎湖縣馬公市第三衛生所",
     "City": "澎湖縣",
@@ -11832,7 +12240,7 @@
     ]
   },
   {
-    "Id": 349,
+    "Id": 361,
     "HospitalId": "2344020017",
     "HospitalName": "澎湖縣湖西鄉衛生所",
     "City": "澎湖縣",
@@ -11866,7 +12274,7 @@
     ]
   },
   {
-    "Id": 350,
+    "Id": 362,
     "HospitalId": "2344030013",
     "HospitalName": "澎湖縣白沙鄉衛生所",
     "City": "澎湖縣",
@@ -11900,7 +12308,7 @@
     ]
   },
   {
-    "Id": 351,
+    "Id": 363,
     "HospitalId": "2344030022",
     "HospitalName": "澎湖縣白沙鄉鳥嶼衛生所",
     "City": "澎湖縣",
@@ -11934,7 +12342,7 @@
     ]
   },
   {
-    "Id": 352,
+    "Id": 364,
     "HospitalId": "2344030031",
     "HospitalName": "澎湖縣白沙鄉吉貝衛生所",
     "City": "澎湖縣",
@@ -11968,7 +12376,7 @@
     ]
   },
   {
-    "Id": 353,
+    "Id": 365,
     "HospitalId": "2344040019",
     "HospitalName": "澎湖縣西嶼鄉衛生所",
     "City": "澎湖縣",
@@ -12002,7 +12410,7 @@
     ]
   },
   {
-    "Id": 354,
+    "Id": 366,
     "HospitalId": "2344050015",
     "HospitalName": "澎湖縣望安鄉衛生所",
     "City": "澎湖縣",
@@ -12036,7 +12444,7 @@
     ]
   },
   {
-    "Id": 355,
+    "Id": 367,
     "HospitalId": "2344050024",
     "HospitalName": "澎湖縣望安鄉將軍衛生所",
     "City": "澎湖縣",
@@ -12070,7 +12478,7 @@
     ]
   },
   {
-    "Id": 356,
+    "Id": 368,
     "HospitalId": "2344060011",
     "HospitalName": "澎湖縣七美鄉衛生所",
     "City": "澎湖縣",
@@ -12104,7 +12512,7 @@
     ]
   },
   {
-    "Id": 357,
+    "Id": 369,
     "HospitalId": "2345010015",
     "HospitalName": "花蓮縣花蓮市衛生所",
     "City": "花蓮縣",
@@ -12138,7 +12546,7 @@
     ]
   },
   {
-    "Id": 358,
+    "Id": 370,
     "HospitalId": "2345020011",
     "HospitalName": "花蓮縣鳳林鎮衛生所",
     "City": "花蓮縣",
@@ -12172,7 +12580,7 @@
     ]
   },
   {
-    "Id": 359,
+    "Id": 371,
     "HospitalId": "2345030017",
     "HospitalName": "花蓮縣玉里鎮衛生所",
     "City": "花蓮縣",
@@ -12206,7 +12614,7 @@
     ]
   },
   {
-    "Id": 360,
+    "Id": 372,
     "HospitalId": "2345040013",
     "HospitalName": "花蓮縣新城鄉衛生所",
     "City": "花蓮縣",
@@ -12240,7 +12648,7 @@
     ]
   },
   {
-    "Id": 361,
+    "Id": 373,
     "HospitalId": "2345050019",
     "HospitalName": "花蓮縣吉安鄉衛生所",
     "City": "花蓮縣",
@@ -12274,7 +12682,7 @@
     ]
   },
   {
-    "Id": 362,
+    "Id": 374,
     "HospitalId": "2345060015",
     "HospitalName": "花蓮縣壽豐鄉衛生所",
     "City": "花蓮縣",
@@ -12308,7 +12716,7 @@
     ]
   },
   {
-    "Id": 363,
+    "Id": 375,
     "HospitalId": "2345070011",
     "HospitalName": "花蓮縣光復鄉衛生所",
     "City": "花蓮縣",
@@ -12342,7 +12750,7 @@
     ]
   },
   {
-    "Id": 364,
+    "Id": 376,
     "HospitalId": "2345090013",
     "HospitalName": "花蓮縣瑞穗鄉衛生所",
     "City": "花蓮縣",
@@ -12376,7 +12784,7 @@
     ]
   },
   {
-    "Id": 365,
+    "Id": 377,
     "HospitalId": "2345100014",
     "HospitalName": "花蓮縣富里鄉衛生所",
     "City": "花蓮縣",
@@ -12410,7 +12818,7 @@
     ]
   },
   {
-    "Id": 366,
+    "Id": 378,
     "HospitalId": "2345110010",
     "HospitalName": "花蓮縣秀林鄉衛生所",
     "City": "花蓮縣",
@@ -12444,7 +12852,7 @@
     ]
   },
   {
-    "Id": 367,
+    "Id": 379,
     "HospitalId": "2345120016",
     "HospitalName": "花蓮縣萬榮鄉衛生所",
     "City": "花蓮縣",
@@ -12478,7 +12886,7 @@
     ]
   },
   {
-    "Id": 368,
+    "Id": 380,
     "HospitalId": "2345130012",
     "HospitalName": "花蓮縣卓溪鄉衛生所",
     "City": "花蓮縣",
@@ -12512,7 +12920,7 @@
     ]
   },
   {
-    "Id": 369,
+    "Id": 381,
     "HospitalId": "2346020015",
     "HospitalName": "臺東縣成功鎮衛生所",
     "City": "臺東縣",
@@ -12546,7 +12954,7 @@
     ]
   },
   {
-    "Id": 370,
+    "Id": 382,
     "HospitalId": "2346040017",
     "HospitalName": "臺東縣卑南鄉衛生所",
     "City": "臺東縣",
@@ -12580,7 +12988,7 @@
     ]
   },
   {
-    "Id": 371,
+    "Id": 383,
     "HospitalId": "2346050013",
     "HospitalName": "臺東縣大武鄉衛生所",
     "City": "臺東縣",
@@ -12614,7 +13022,7 @@
     ]
   },
   {
-    "Id": 372,
+    "Id": 384,
     "HospitalId": "2346090017",
     "HospitalName": "臺東縣鹿野鄉衛生所",
     "City": "臺東縣",
@@ -12648,7 +13056,7 @@
     ]
   },
   {
-    "Id": 373,
+    "Id": 385,
     "HospitalId": "2346100018",
     "HospitalName": "臺東縣池上鄉衛生所",
     "City": "臺東縣",
@@ -12682,7 +13090,7 @@
     ]
   },
   {
-    "Id": 374,
+    "Id": 386,
     "HospitalId": "2346110014",
     "HospitalName": "臺東縣綠島鄉衛生所",
     "City": "臺東縣",
@@ -12716,7 +13124,7 @@
     ]
   },
   {
-    "Id": 375,
+    "Id": 387,
     "HospitalId": "2346140012",
     "HospitalName": "臺東縣達仁鄉衛生所",
     "City": "臺東縣",
@@ -12750,7 +13158,7 @@
     ]
   },
   {
-    "Id": 376,
+    "Id": 388,
     "HospitalId": "2346150018",
     "HospitalName": "臺東縣金峰鄉衛生所",
     "City": "臺東縣",
@@ -12784,7 +13192,7 @@
     ]
   },
   {
-    "Id": 377,
+    "Id": 389,
     "HospitalId": "0936050029a",
     "HospitalName": "光田醫療社團法人光田綜合醫院-沙鹿院區",
     "City": "臺中市",
@@ -12818,7 +13226,7 @@
     ]
   },
   {
-    "Id": 378,
+    "Id": 390,
     "HospitalId": "0936050029b",
     "HospitalName": "光田醫療社團法人光田綜合醫院-大甲院區",
     "City": "臺中市",
@@ -12852,7 +13260,7 @@
     ]
   },
   {
-    "Id": 379,
+    "Id": 391,
     "HospitalId": "0439010518a",
     "HospitalName": "國立臺灣大學附設醫院雲林分院",
     "City": "雲林縣",
@@ -12886,7 +13294,7 @@
     ]
   },
   {
-    "Id": 380,
+    "Id": 392,
     "HospitalId": "0439010518b",
     "HospitalName": "國立臺灣大學醫學院附設醫院雲林分院(虎尾院區)",
     "City": "雲林縣",
@@ -12920,7 +13328,7 @@
     ]
   },
   {
-    "Id": 381,
+    "Id": 393,
     "HospitalId": "",
     "HospitalName": "嘉義縣阿里山鄉衛生所香林衛生室",
     "City": "嘉義縣",
