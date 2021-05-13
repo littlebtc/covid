@@ -1,0 +1,393 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "晶華亭餐廳",
+        "time_from": "2021-05-04T18:00:00+08:00",
+        "time_to": "",
+        "estimated": true,
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.45468890666962, 25.041826415882806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "來來按摩 蘆洲長安店",
+        "time_from": "2021-05-06T16:00:00+08:00",
+        "time_to": "2021-05-06T17:30:00+08:00",
+        "estimated": true,
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.46073460578918, 25.081721815384785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大風車婚宴會館",
+        "time_from": "2021-05-06T19:00:00+08:00",
+        "time_to": "2021-05-06T21:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.48038983345032, 25.081784976847242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "菜市場",
+        "time_from": "2021-05-07T06:00:00+08:00",
+        "time_to": "2021-05-07T06:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4580202102661, 25.054442735744203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "楊老爹肉圓",
+        "time_from": "2021-05-07T11:00:00+08:00",
+        "time_to": "2021-05-07T20:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.44651889801025, 25.042069423518775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "遠東 SOGO 台北復興館",
+        "time_from": "2021-05-07T16:00:00+08:00",
+        "time_to": "2021-05-07T18:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.54322862625123, 25.041087669712546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三重力行市場",
+        "time_from": "2021-05-08T07:30:00+08:00",
+        "time_to": "2021-05-08T08:30:00+08:00",
+        "estimated": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.48632287979126, 25.067495080451838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "楊老爹肉圓",
+        "time_from": "2021-05-08T11:00:00+08:00",
+        "time_to": "2021-05-08T20:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.44651889801025, 25.042069423518775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "菘賓餐廳",
+        "time_from": "2021-05-08T12:30:00+08:00",
+        "time_to": "2021-05-08T13:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4387458562851, 25.08779002550195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time_from": "2021-05-08T19:00:00+08:00",
+        "name": "阿秋越南美食",
+        "time_to": "2021-05-08T20:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.47250413894653, 25.084306550149776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "林口三井 Outlet",
+        "time_from": "2021-05-08T19:30:00+08:00",
+        "time_to": "2021-05-08T21:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.36536598205568, 25.07057573633808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "醐同燒肉夜食五號店",
+        "time_from": "2021-05-08T20:00:00+08:00",
+        "estimated": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.56789422035217, 25.035352515191246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "國父紀念館 巧虎奇幻音樂世界演奏會 (場次 10:30)",
+        "time_from": "2021-05-08T10:30:00+08:00",
+        "time_to": "2021-05-08T12:30:00+08:00",
+        "estimated": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.56020164489746, 25.040037864868324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "方記三杯滷味",
+        "time_from": "2021-05-08T12:00:00+08:00",
+        "estimated": "true",
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.29154086112976, 25.049952330031257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "海霸王餐廳蘆洲店",
+        "time_from": "2021-05-08T18:00:00+08:00",
+        "estimated": "true",
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.47776126861571, 25.081464310623613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "基隆八斗子釣魚",
+        "time_from": "2021-05-09T07:00:00+08:00",
+        "time_to": "2021-05-09T12:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.79441213607787, 25.14075868861908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "成泰里守望相助活動中心",
+        "time_from": "2021-05-09T08:00:00+08:00",
+        "time_to": "2021-05-09T12:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.44230246543883, 25.08990824097644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卡拉OK (調查中)",
+        "time_from": "2021-05-09T11:00:00+08:00",
+        "time_to": "2021-05-09T16:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.56592011451721, 25.048581848773185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "好市多 Costco 新莊店",
+        "time_from": "2021-05-09T11:00:00+08:00",
+        "time_to": "2021-05-09T14:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.43406271934509, 25.02707981154962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "二泉湖畔咖啡",
+        "time_from": "2021-05-09T12:00:00+08:00",
+        "estimated": true,
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.98553299903868, 24.675487935842042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "下城老地方酒餐館",
+        "time_from": "2021-05-09T12:00:00+08:00",
+        "estimated": true,
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.52336418628691, 24.963752328740913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新竹市城隍廟",
+        "time_from": "2021-05-09T14:00:00+08:00",
+        "estimated": true,
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.96603870391844, 24.804431654260682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天母銀座日本料理",
+        "time_from": "2021-05-09T18:00:00+08:00",
+        "estimated": true,
+        "investigating": true,
+        "time_to": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.52809023857117, 25.1077512931344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "尚井日式涮涮鍋",
+        "time_from": "2021-05-09T14:00:00+08:00",
+        "time_to": "2021-05-09T15:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.48081898689269, 25.066396909936863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "人从众牛排館",
+        "time_from": "2021-05-09T18:00:00+08:00",
+        "time_to": "2021-05-09T19:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4626497030258, 25.083519475042166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "松風日本料理",
+        "time_from": "2021-05-09T19:00:00+08:00",
+        "estimated": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.31452739238739, 25.01601140345733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "好市多 Costco 北投店",
+        "time_from": "2021-05-10T12:00:00+08:00",
+        "estimated": true,
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.47010087966918, 25.127510175666757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "英芳飯店海鮮餐廳",
+        "time_from": "2021-05-10T12:00:00+08:00",
+        "estimated": true,
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.56578600406645, 25.29150956868182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "茶自點 (中正店)",
+        "time_from": "2021-05-10T14:30:00+08:00",
+        "time_to": "2021-05-10T17:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.30239844322206, 25.007917271837712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "康舒工程",
+        "time_from": "2021-05-10T14:00:00+08:00",
+        "estimated": true,
+        "investigating": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.44770979881288, 25.202524000139324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "孫東寶牛排館",
+        "time_from": "2021-05-10T18:00:00+08:00",
+        "time_to": "2021-05-10T19:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.45935058593749, 25.08736249132633]
+      }
+    }
+  ]
+}
