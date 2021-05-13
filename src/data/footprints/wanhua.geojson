@@ -1,0 +1,457 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "磅磅仔三府宮",
+        "time_from": "2021-05-01T07:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.82568669319153, 25.120885380289486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "竹山紫南宮",
+        "time_from": "2021-05-01T10:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.7226014137268, 23.81709091441698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "竹山丸滿餐廳",
+        "time_from": "2021-05-01T12:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.71502685546875, 23.803648356404732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "正統鹿耳門",
+        "time_from": "2021-05-01T13:00:00+08:00",
+        "time_to": "2021-05-01T14:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.12723684310915, 23.06792660178379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "萬國通路創意觀光工廠",
+        "time_from": "2021-05-01T13:00:00+08:00",
+        "time_to": "2021-05-01T14:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.28000473976137, 22.93548200695695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大寮朝鳳宮",
+        "time_from": "2021-05-01T17:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.40898144245148, 22.619517367310966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "金獅湖保安宮",
+        "time_from": "2021-05-01T20:30:00+08:00",
+        "time_to": "2021-05-02T07:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.32708287239075, 22.666095846322797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹿港天后宮",
+        "time_from": "2021-05-02T07:00:00+08:00",
+        "time_to": "2021-05-02T13:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.4314637184143, 24.059308190861135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東勢開安宮",
+        "time_from": "2021-05-02T07:00:00+08:00",
+        "time_to": "2021-05-02T13:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.26636838912964, 23.710081273458318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time_from": "2021-05-02T13:00:00+08:00",
+        "time_to": "2021-05-02T18:00:00+08:00",
+        "estimated": "yes",
+        "name": "金福華餐廳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.58160305023193, 24.250447033528673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白沙屯拱天宮",
+        "time_from": "2021-05-02T13:00:00+08:00",
+        "time_to": "2021-05-02T18:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.70919036865234, 24.571499199010827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "後龍乾富宮",
+        "time_from": "2021-05-02T13:00:00+08:00",
+        "time_to": "2021-05-02T18:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.77419102191924, 24.604415887196744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "古都餐廳",
+        "time_from": "2021-05-02T18:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.43782854080199, 24.971314445662607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鴻達茶藝館",
+        "time_from": "2021-05-02T11:00:00+08:00",
+        "time_to": "2021-05-02T18:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.50083899497984, 25.03619822432358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鴻達茶藝館",
+        "time_from": "2021-05-03T11:00:00+08:00",
+        "time_to": "2021-05-03T18:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.50083899497984, 25.03619822432358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鴻達茶藝館",
+        "time_from": "2021-05-04T11:00:00+08:00",
+        "time_to": "2021-05-04T18:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.50083899497984, 25.03619822432358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鴻達茶藝館",
+        "time_from": "2021-05-05T11:00:00+08:00",
+        "time_to": "2021-05-05T18:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.50083899497984, 25.03619822432358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鴻達茶藝館",
+        "time_from": "2021-05-06T11:00:00+08:00",
+        "time_to": "2021-05-06T18:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.50083899497984, 25.03619822432358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "美金飲酒店",
+        "time_from": "2021-05-06T14:00:00+08:00",
+        "time_to": "2021-05-06T18:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49816751480103, 25.036096156289407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "信義市場",
+        "time_from": "2021-05-07T09:00:00+08:00",
+        "time_to": "2021-05-07T10:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.7526340484619, 25.129666556487447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鴻達茶藝館",
+        "time_from": "2021-05-07T11:00:00+08:00",
+        "time_to": "2021-05-07T18:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.50083899497984, 25.03619822432358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "良食小吃店",
+        "time_from": "2021-05-07T17:30:00+08:00",
+        "time_to": "2021-05-07T23:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49837672710417, 25.036256548876413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "美金飲酒店",
+        "time_from": "2021-05-07T14:00:00+08:00",
+        "time_to": "2021-05-07T22:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49801731109618, 25.036256548876413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青龍宮",
+        "time_from": "2021-05-07T06:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49241149425507, 25.028868551490316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹿港竹安宮",
+        "time_from": "2021-05-07T11:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.45600593090056, 24.079654441890884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "芳苑普天宮",
+        "time_from": "2021-05-07T12:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.31679391860962, 23.92932772481873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time_from": "2021-05-07T15:00:00+08:00",
+        "name": "北港朝天宮",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.30463814735413, 23.568038757736595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "布袋家應廟",
+        "time_from": "2021-05-07T18:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.15734195709229, 23.378078097833306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新塭嘉應廟",
+        "time_from": "2021-05-07T19:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.16041040420532, 23.326769587500824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南鯤鯓",
+        "time_from": "2021-05-07T20:00:00+08:00",
+        "time_to": "2021-05-08T08:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.14348030090332, 23.285818881575338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "嘉應廟衝水路",
+        "time_from": "2021-05-08T10:00:00+08:00",
+        "time_to": "2021-05-08T14:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.15859723091125, 23.332414592995224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "儷宴餐廳",
+        "time_from": "2021-05-08T18:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.22132062911987, 24.864555678433586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青龍宮",
+        "time_from": "2021-05-08T20:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49241149425507, 25.028868551490316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "小峨嵋川菜館",
+        "time_from": "2021-05-08T18:30:00+08:00",
+        "time_to": "2021-05-08T19:30:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.74586415290831, 25.13304675251664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鴻達茶藝館",
+        "time_from": "2021-05-08T11:00:00+08:00",
+        "time_to": "2021-05-08T14:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.50083899497984, 25.03619822432358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "良食小吃店",
+        "time_from": "2021-05-08T17:30:00+08:00",
+        "time_to": "2021-05-08T23:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49837672710417, 25.036256548876413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "美金飲酒店",
+        "time_from": "2021-05-08T14:00:00+08:00",
+        "time_to": "2021-05-08T22:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49801731109618, 25.036256548876413]
+      }
+    }
+  ]
+}
