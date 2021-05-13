@@ -452,6 +452,159 @@
         "type": "Point",
         "coordinates": [121.49801731109618, 25.036256548876413]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "銀河百家樂",
+        "time_from": "2021-05-09T15:00:00",
+        "time_to": "2021-05-10T00:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.7719030380249, 24.67948502426653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time_from": "2021-05-09T15:00:00",
+        "time_to": "2021-05-10T00:00:00+08:00",
+        "estimated": "yes",
+        "name": "大地球遊藝場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.75477445125581, 24.75724186438748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巨城電玩",
+        "time_from": "2021-05-09T15:00:00",
+        "time_to": "2021-05-10T00:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.77083551883696, 24.82667364306992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "美金飲酒店",
+        "time_from": "2021-05-09T14:00:00+08:00",
+        "time_to": "2021-05-09T22:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49816751480103, 25.036096156289407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "銀河百家樂",
+        "time_from": "2021-05-10T15:00:00",
+        "time_to": "2021-05-11T00:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.7719030380249, 24.67948502426653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time_from": "2021-05-10T15:00:00",
+        "time_to": "2021-05-11T00:00:00+08:00",
+        "estimated": "yes",
+        "name": "大地球遊藝場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.75477445125581, 24.75724186438748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巨城電玩",
+        "time_from": "2021-05-10T15:00:00",
+        "time_to": "2021-05-11T00:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.77083551883696, 24.82667364306992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "美金飲酒店",
+        "time_from": "2021-05-10T14:00:00+08:00",
+        "time_to": "2021-05-10T22:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49816751480103, 25.036096156289407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Q burger 樹林千歲店",
+        "time_from": "2021-05-11T07:00:00+08:00",
+        "time_to": "2021-05-11T07:40:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.42512559890747, 24.995704575525856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "保安市場",
+        "time_from": "2021-05-11T07:40:00+08:00",
+        "time_to": "2021-05-11T09:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.42862319946289, 24.99380838722268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "美金飲酒店",
+        "time_from": "2021-05-11T16:00:00+08:00",
+        "time_to": "2021-05-11T21:00:00+08:00",
+        "estimated": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.49816751480103, 25.036096156289407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "保安市場",
+        "time_from": "2021-05-12T07:00:00+08:00",
+        "time_to": "2021-05-12T08:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.42862319946289, 24.99380838722268]
+      }
     }
   ]
 }
