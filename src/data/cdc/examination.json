@@ -79,8 +79,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -480,8 +480,8 @@
     "Long": 121.547339,
     "Note": null,
     "OpenTime": {
-      "Morning": true,
-      "Afternoon": true,
+      "Morning": false,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -616,7 +616,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -682,8 +682,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -883,8 +883,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -950,8 +950,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -1017,8 +1017,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -1151,8 +1151,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -1419,8 +1419,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -1486,8 +1486,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -1553,8 +1553,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -1620,8 +1620,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -1688,7 +1688,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -1955,8 +1955,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -2156,8 +2156,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -2558,8 +2558,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -2625,8 +2625,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -2759,8 +2759,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -2826,8 +2826,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -3027,8 +3027,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -3095,7 +3095,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -3295,8 +3295,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -3429,8 +3429,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -3563,8 +3563,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -3899,7 +3899,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -4099,8 +4099,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -4166,8 +4166,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -4501,8 +4501,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -4635,8 +4635,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -4903,8 +4903,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -5037,8 +5037,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -5104,8 +5104,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -5171,8 +5171,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -5305,8 +5305,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -5707,8 +5707,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -5774,7 +5774,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -5841,8 +5841,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -5908,7 +5908,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -6109,8 +6109,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -6444,8 +6444,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -6511,8 +6511,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -6578,8 +6578,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -6645,8 +6645,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -6779,8 +6779,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -6845,9 +6845,9 @@
     "Long": 120.223192,
     "Note": null,
     "OpenTime": {
-      "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Morning": false,
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -7181,8 +7181,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -7517,7 +7517,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -7918,8 +7918,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -8052,8 +8052,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -8186,7 +8186,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -8253,7 +8253,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -8387,8 +8387,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -8588,7 +8588,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": true
     },
     "IsTravel": false,
@@ -8721,9 +8721,9 @@
     "Long": 120.502626,
     "Note": null,
     "OpenTime": {
-      "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Morning": false,
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -8789,8 +8789,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -8990,8 +8990,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -9326,7 +9326,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -9391,7 +9391,7 @@
     "Long": 119.610071,
     "Note": null,
     "OpenTime": {
-      "Morning": true,
+      "Morning": false,
       "Afternoon": true,
       "Night": true
     },
@@ -9995,7 +9995,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -10329,9 +10329,9 @@
     "Long": 121.166766,
     "Note": null,
     "OpenTime": {
-      "Morning": true,
+      "Morning": false,
       "Afternoon": true,
-      "Night": false
+      "Night": true
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -10397,8 +10397,8 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
-      "Night": true
+      "Afternoon": false,
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -10598,7 +10598,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -10665,7 +10665,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -10732,7 +10732,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
@@ -10799,7 +10799,7 @@
     "Note": null,
     "OpenTime": {
       "Morning": true,
-      "Afternoon": true,
+      "Afternoon": false,
       "Night": false
     },
     "IsTravel": false,
