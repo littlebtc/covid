@@ -6445,7 +6445,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -8254,7 +8254,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -9996,7 +9996,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -10331,7 +10331,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": true
+      "Night": false
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
