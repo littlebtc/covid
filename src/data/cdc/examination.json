@@ -6445,7 +6445,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": false
+      "Night": true
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -9996,7 +9996,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": false
+      "Night": true
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
@@ -10331,7 +10331,7 @@
     "OpenTime": {
       "Morning": true,
       "Afternoon": true,
-      "Night": false
+      "Night": true
     },
     "IsTravel": false,
     "IsExaminationCounter": true,
